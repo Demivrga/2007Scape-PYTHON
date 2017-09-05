@@ -1,4 +1,9 @@
 #!/bin/python
+
+#### IF YOU ARE READING THIS
+#### THIS IS AN OLDER VERSION OF THE 2007SCAPE PYTHON CHECKER
+#### PLEASE SEE NEWMETHOD
+
 import sys
 import os
 import twill
